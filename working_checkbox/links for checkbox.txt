@@ -1,0 +1,6 @@
+https://www.000webhost.com/members/website/phpcheckbox/files
+https://stackoverflow.com/questions/19239536/how-get-value-for-unchecked-checkbox-in-checkbox-elements-when-form-posted
+https://www.php.net/manual/en/function.array.php
+https://bugs.php.net/report.php?bug_type=Documentation+problem&manpage=function.array
+https://www.google.com/search?safe=off&client=firefox-b-1-d&biw=1366&bih=632&sxsrf=ACYBGNQG1CoETQu1gh_37AbTGQ2iajUQIw%3A1569859093348&ei=FSaSXYrlFKPO5gKvyqjADg&q=using+000webhost+pdo+fetch&oq=using+000webhost+pdo+fetch&gs_l=psy-ab.3..33i299l3.3836.5022..5586...0.2..0.121.567.5j1......0....1..gws-wiz.......0i71j33i160.xGQm1xT_Wn8&ved=0ahUKEwjKw-zs9PjkAhUjp1kKHS8lCugQ4dUDCAo&uact=5
+https://stackoverflow.com/questions/39696943/how-to-retrieve-checkbox-value-from-database-in-php-using-explode
